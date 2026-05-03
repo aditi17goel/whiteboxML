@@ -20,7 +20,8 @@ Each week I work through a core ML concept and implement it hands-on. You'll fin
 | Week | Topic | Code | Blog Post |
 |------|-------|------|-----------|
 | 0 | Kicking things off | — | [Why I'm Giving Myself 90 Days to Steer My Career](https://goeladiti.substack.com/p/why-im-giving-myself-90-days-to-steer) |
-| 1 | Micrograd — Neural networks & backprop from scratch | [Micrograd/](./Micrograd) | [Neural Networks from Scratch — Micrograd](https://goeladiti.substack.com/p/neural-networks-from-scratch-micrograd) |
+| 1 | Building neural networks and backprop from scratch | [Micrograd/](./Micrograd) | [Neural Networks from Scratch — Micrograd](https://goeladiti.substack.com/p/neural-networks-from-scratch-micrograd) |
+| 2 | Character-level language models | [Language Modelling/](./Language%20Modelling) | [Character-Level Language Models](https://goeladiti.substack.com/p/character-level-language-models) |
 
 ---
 

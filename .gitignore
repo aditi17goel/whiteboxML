@@ -1,2 +1,18 @@
 # OS generated files
 .DS_Store
+
+# Python virtual environments
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files
+names.txt
