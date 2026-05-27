@@ -24,6 +24,7 @@ Each week I work through a core ML concept and implement it hands-on. You'll fin
 | 2 | Character-level language models | [Language Modelling/](./Language%20Modelling) | [Character-Level Language Models](https://goeladiti.substack.com/p/character-level-language-models) |
 | 3 | Attention In Transformers | - | [Attention In Transformers](https://goeladiti.substack.com/p/attention-in-transformers) |
 | 4 | Deep Net Internals & Batch Normalization | [Language Modelling/makemore_playing_with_batch_norm.ipynb](https://github.com/aditi17goel/whiteboxML/blob/main/Language%20Modelling/makemore_playing_with_batch_norm.ipynb) | [Deep Net Internals & Batch Normalization](https://goeladiti.substack.com/p/deep-net-internals-and-batch-normalization) |
+| 5 | A Guide to Neural Network Training Diagnostics | [diagnostics.ipynb](https://github.com/aditi17goel/whiteboxML/blob/main/diagnostics.ipynb) | https://goeladiti.substack.com/p/a-guide-to-neural-network-training |
 ---
 
 ## 🔗 Links
